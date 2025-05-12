@@ -24,7 +24,7 @@ This project is ideal for beginners learning to build static websites or for any
 
 ## How to View
 
-You can access my portfolio website by visiting [Link] feel free to explore the content and get in touch!
+You can access my portfolio website by visiting [[Link](https://github.com/ChitraRajkamal/Portfolio-Simple-Website.git)] feel free to explore the content and get in touch!
 
 ## Contributing
 If you'd like to contribute or suggest improvements, please feel free to open an issue or create a pull request. Your feedback is greatly appreciated.
